@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: edu.glyndwr.statanalyser.StatanalyserApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 2.553 s <<< FAILURE! - in edu.glyndwr.statanalyser.StatanalyserApplicationTests
+contextLoads(edu.glyndwr.statanalyser.StatanalyserApplicationTests)  Time elapsed: 0.009 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: java.lang.IllegalStateException: Failed to execute ApplicationRunner
+Caused by: java.lang.NullPointerException
+

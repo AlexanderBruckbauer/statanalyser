@@ -1,0 +1,9 @@
+edu\glyndwr\statanalyser\config\StatAnalyserConfig.class
+edu\glyndwr\statanalyser\model\StackOverflowStats.class
+edu\glyndwr\statanalyser\logic\TTestDependentSamples.class
+edu\glyndwr\statanalyser\model\UnivariantDataSetTo.class
+edu\glyndwr\statanalyser\model\TagPercents.class
+edu\glyndwr\statanalyser\logic\AnalysisController.class
+edu\glyndwr\statanalyser\StatanalyserApplication.class
+edu\glyndwr\statanalyser\logic\Analyser.class
+edu\glyndwr\statanalyser\dataprovider\JSONLoader.class
